@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">Pro_Dev</string>
+  <string name="projects_button_text">Projects</string>
+  <string name="homework_button_text">Homework</string>
+</resources>
