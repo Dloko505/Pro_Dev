@@ -1,5 +1,9 @@
 <resources>
   <string name="app_name">Pro_Dev</string>
-  <string name="projects_button_text">Projects</string>
+  <string name="projects_button_text">Projects!</string>
   <string name="homework_button_text">Homework</string>
+  <string name="homework_text">Enter Homework Assignments:</string>
+  <string name="image_me">Image of Myself.</string>
+  <string name="about_me">About Me</string>
+
 </resources>

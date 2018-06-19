@@ -5,27 +5,17 @@
   xmlns:tools="http://schemas.android.com/tools"
   android:layout_width="match_parent"
   android:layout_height="match_parent"
-  tools:context="edu.cnm.deepdive.dloko505.pro_dev.HomeworkActivity">
+  tools:context="edu.cnm.deepdive.dloko505.pro_dev.AboutMeActivity">
 
   <TextView
-    android:id="@+id/homework_title"
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="@string/homework_button_text"
-    android:textColor="@color/colorPrimary"
-    android:textSize="54sp"
+    android:text="@string/about_me"
+    android:textSize="54dp"
     android:textStyle="bold"
     app:layout_constraintLeft_toLeftOf="parent"
     app:layout_constraintRight_toRightOf="parent"
-    app:layout_constraintTop_toTopOf="parent"/>
-
-  <EditText
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:text="@string/homework_text"
-    app:layout_constraintLeft_toLeftOf="parent"
-    app:layout_constraintRight_toRightOf="parent"
-    app:layout_constraintTop_toBottomOf="@id/homework_title"/>
-
+    app:layout_constraintTop_toTopOf="parent"
+    />
 
 </android.support.constraint.ConstraintLayout>
