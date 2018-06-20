@@ -2,7 +2,25 @@
   <string name="app_name">Pro_Dev</string>
   <string name="projects_button_text">Projects!</string>
   <string name="homework_button_text">Homework</string>
-  <string name="homework_text">Enter Homework Assignments:</string>
+  <string name="balancing_brain_link">* Balancing Left and Right Brain</string>
+ <string name="balancing_brain_text">I am always trying to learn something new whether its work or project related or just
+something I find interesting. Ripping stuff apart and putting it back together to figure
+out how it works, reading a book on a new topic, or even just going google crazy I find its
+like an escape for me to just retreat from a stressful day and learn something different. </string>
+  <string name="elev_pitch_link">* Elevator Pitch</string>
+  <string name="golden_circle_link">* Golden Circle</string>
+  <string name="quantitative_qualitative_link">* Quantitative and Qualitative</string>
+  <string name="quantitative_qualitative_text">Quantitative
+1. I have received 4 of my ASE certs.
+2. I received my fundamentals and associates degree in Auto Tech
+3.
+
+Qualitative
+1. I am almost always trying to learn something new.
+2.
+3.
+  </string>
+  <string name="stove_top">* Stove Top Goals</string>
   <string name="image_me">Image of Myself.</string>
   <string name="about_me">About Me</string>
 
